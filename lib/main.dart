@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         return MaterialApp(
           home: child,
           debugShowCheckedModeBanner: false,
-          title: 'Weather UI',
+          title: 'Weather App',
         );
       },
       child: OnBoradPage(),
